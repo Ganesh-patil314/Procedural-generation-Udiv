@@ -1,5 +1,5 @@
 # Procedural-generation-Udiv
-a project by students of b.tech 1st year U Divisiion. Made by collective efforts of-
+a project by students of b.tech 1st year U Division. Made by collective efforts of-
 Kamleesh Beldar,
 Kiran ardad,
 Shivam Doke,
